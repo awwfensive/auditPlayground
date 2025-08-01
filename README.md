@@ -5,6 +5,6 @@ Great for learning, experimenting, and security research.
 
 ## 🔍 Current Labs
 
-- [CVE-2025-29744](./cve-2025-29744): SQL Injection in `pg-promise` (Node.js ORM)
+- [CVE-2025-29744](https://github.com/awwfensive/cvePlayground/tree/main/CVE-2025-29744): SQL Injection in `pg-promise` (Node.js ORM)
 
 More labs will be added soon...
