@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SQL Injection Test</title>
+</head>
+<body>
+  <h1>Test Input</h1>
+<form method="POST" action="/test">
+  <input name="input1" value="-1">
+  <textarea name="input2">foo
+ 1 AND 1=0 UNION SELECT 1337, version(); --</textarea>
+  <button type="submit">Submit</button>
+</form>
+
+</body>
+</html>
