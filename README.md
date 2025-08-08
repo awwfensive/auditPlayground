@@ -1,4 +1,4 @@
-# CVE Playground 🧪
+# auditPlayground 🧪
 
 A collection of vulnerable environments to reproduce and analyze real-world CVEs in isolation using Docker.  
 Great for learning, experimenting, and security research.
