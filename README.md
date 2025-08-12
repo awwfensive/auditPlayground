@@ -1,8 +1,7 @@
 # auditPlayground 🧪
+A curated collection of intentionally vulnerable environments for reproducing and analyzing real-world CVEs and security flaws in isolation — all containerized with Docker.
+Perfect for **learning**, **hands-on experimentation**, **security research**, and **practicing security code review**.
 
-A curated collection of intentionally vulnerable environments for reproducing and analyzing real-world CVEs and security flaws in isolation — all containerized with Docker.  
-
-Perfect for **learning**, **hands-on experimentation**, and **security research**.
 
 ---
 
